@@ -1,2 +1,2 @@
 # Ecommerce_Customer_Behaviour_Analysis
-Main aim of the project is to analyze e-commerce customer behavior and identify patterns in purchases, preferences, and demographics to generate actionable business insights.
+The main aim of the project is to analyze e-commerce customer behavior and identify patterns in purchases, preferences, and demographics to generate actionable business insights.
